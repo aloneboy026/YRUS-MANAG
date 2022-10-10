@@ -7,29 +7,29 @@ from pyrogram import filters
 from AaruRobot import pbot as client
 
 
-Aaru = "https://telegra.ph/file/6ccab5bc360325388e2c4.jpg"
+Aaru = "https://telegra.ph/file/b571926f287c281f4d5cd.jpg"
 
 @client.on_message(filters.command(["repo", "source"]))
 async def repo(client, message):
     await message.reply_photo(
         photo=Ayra,
-        caption=f"""**ʜᴇʏ​ {message.from_user.mention()},\n\nɪ ᴀᴍ [ᴀᴀʀᴜ ✘ ʀᴏʙᴏᴛ-🇮🇳](t.me/XD_CODER)**
+        caption=f"""**ʜᴇʏ​ {message.from_user.mention()},\n\nɪ ᴀᴍ [🦇Vค𝔪pıre 🦇 ✘ ʀᴏʙᴏᴛ-🇮🇳](t.me/ll_OFFICIAL_LEGENDBOY_ll)**
 
-**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [⏤͟͟͞͞x𝐃🥀| 𓆩 𝐂𝐎𝐃𝐄𝐑 𓆪 |∘𖣘︎⃞⃟🔥](tg://user?id=5320093001)
+**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [⏤͟͟͞͞x𝐃🥀| 𓆩 LEGENDX𓆪 |∘𖣘︎⃞⃟🔥](tg://user?id=2004027195)
 **» ᴩʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{y()}`
 **» ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{o}` 
 **» ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{s}` 
 **» ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{z}`
 
-**ᴛʀɪsʜᴀ ✘ ʀᴏʙᴏᴛ sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ.**
+**🦇Vค𝔪pıre 🦇 ✘ ʀᴏʙᴏᴛ sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ.**
 """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "• ᴅᴇᴠᴇʟᴏᴘᴇʀ •", url="tg://user?id=5320093001"), 
+                        "• ᴅᴇᴠᴇʟᴏᴘᴇʀ •", url="tg://user?id=2004027195"), 
                     InlineKeyboardButton(
-                        "• sᴏᴜʀᴄᴇ •", url="https://github.com/CODER-XD143/AaruRobot")
+                        "• sᴏᴜʀᴄᴇ •", url="https://github.com/LEGEND-LX")
                 ]
             ]
         )
