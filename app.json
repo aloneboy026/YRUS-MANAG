@@ -1,7 +1,7 @@
 {
-      "name": "𝐀𝐀𝐑𝐔🇽 𝐑𝐎𝐁𝐎𝐓",
+      "name": "🦇Vค𝔪pıre 🦇 𝐑𝐎𝐁𝐎𝐓",
       "description": "Telegram Group Management Bot.",
-      "logo": "https://telegra.ph/file/bfa7fee0f000cf8b4ffe6.jpg",
+      "logo": "https://te.legra.ph/file/6826ab59e65ea4d3cb4c8.jpg",
       "keywords": [
          "telegram",
          "sexy",
@@ -9,7 +9,7 @@
          "manager",
          "Aaru"
       ],   
-   "repository": "https://github.com/CODER-XD143/AaruRobot",
+   "repository": "https://github.com/SPARTENX-OP/VAMPIREROBOT",
    "addons": [
       {
          "options": {
@@ -27,12 +27,12 @@
       "API_ID": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "13956514"
+         "value": "6182895"
       },
       "API_HASH": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "c7736b2793be5933667b9a5b65d1157d"
+         "value": "cd6dfc34618d0bc77d038414ecba8135"
       },    
       "SQLALCHEMY_DATABASE_URI": {
          "description": "Your postgres sql db, Leave this field empty if you don't have one.",
@@ -42,7 +42,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "5320093001"
+         "value": "1355744138"
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -54,12 +54,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "XD_CODER"
+         "value": "ll_SPARTAN_XD_OWNER_ll"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
          "required": true,
-         "value": "IND_BRAND_CHAT"
+         "value": "SPARTANBOT_XD"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
