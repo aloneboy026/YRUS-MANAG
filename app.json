@@ -9,7 +9,7 @@
          "manager",
          "Aaru"
       ],   
-   "repository": "https://github.com/SPARTENX-OP/VAMPIREROBOT",
+   "repository": "https://github.com/SATYA-OP/YRUS-MANAG",
    "addons": [
       {
          "options": {
@@ -27,26 +27,26 @@
       "API_ID": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "6182895"
+         "value": "4524654"
       },
       "API_HASH": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "cd6dfc34618d0bc77d038414ecba8135"
+         "value": "4cfbcd31ec888cc3f0709d8d20607ac8"
       },    
       "SQLALCHEMY_DATABASE_URI": {
          "description": "Your postgres sql db, Leave this field empty if you don't have one.",
          "required": false,
-         "value": ""
+         "value": "XYZ"
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1355744138"
+         "value": "5606176611"
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
-        "value": ""
+        "value": "xyz"
       },
       "HEROKU_APP_NAME": {
         "description": "Enter the Heroku app name here (Must an exact same name with your input above).",
@@ -54,12 +54,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "ll_SPARTAN_XD_OWNER_ll"
+         "value": "ll_SPARTAN_XD_OWNER_lll"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
          "required": true,
-         "value": "SPARTANBOT_XD"
+         "value": "Y_RUS_SUPPORT"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -94,12 +94,12 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother AARU Support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "2004027195"
+         "value": "5783419520"
       },
       "sw_api": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
          "required": false,
-         "value": ""
+         "value": "xyz"
       }, 
       "STRICT_GBAN": {
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
@@ -108,22 +108,22 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "2004027195"
+         "value": "5783419520"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "2004027195"
+         "value": "5783419520"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "2004027195"
+         "value": "5783419520"
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "2004027195"
+         "value": "5783419520"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
