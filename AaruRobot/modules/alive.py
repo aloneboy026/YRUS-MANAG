@@ -15,15 +15,15 @@ PHOTO = [
 
 @register(pattern=("/alive"))
 async def awake(event):
-  TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ 🦇Vค𝔪pıre 🦇 ✘ ʀᴏʙᴏᴛ​**\n━━━━━━━━━━━━━━━━━━━\n\n"
+  TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ 🦇⏤͟͟『☾Ƴ℞𝕦𝕊™☽』🦇 ✘ ʀᴏʙᴏᴛ​**\n━━━━━━━━━━━━━━━━━━━\n\n"
   TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [⏤͟͟͞͞x𝐃🥀| 𓆩 LEGENDX 𓆪 |∘𖣘︎⃞⃟🔥°](https://t.me/ll_OFFICIAL_LEGENDBOY_ll)** \n\n"
   TEXT += f"» **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{telever}` \n\n"
   TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tlhver}` \n\n"
   TEXT += f"» **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pyrover}` \n━━━━━━━━━━━━━━━━━\n\n"
   BUTTON = [
         [
-            Button.url("ʜᴇʟᴘ​", f"https://t.me/II_VAMPIRE_II_II_MUSIC_II_BOT?start=help"),
-            Button.url("sᴜᴘᴘᴏʀᴛ​", f"https://t.me/SPARTANBOT_XD"),
+            Button.url("ʜᴇʟᴘ​", f"https://t.me/ll_lYl_RUS_ll_virus_ll_BOT?start=help"),
+            Button.url("sᴜᴘᴘᴏʀᴛ​", f"https://t.me/Y_RUS_SUPPORT"),
         ]
     ]
   ran = random.choice(PHOTO)
