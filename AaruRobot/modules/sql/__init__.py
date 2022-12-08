@@ -18,10 +18,3 @@ def start() -> scoped_session:
 
 
 BASE = declarative_base()
-try:
-    SESSION = start()
-except Exception as e:
-    log.exception(f"[PostgreSQL] Failed to connect due to {e}")
-    exit()
-
-log.info("[PostgreSQL] Connection successful, session started.")
