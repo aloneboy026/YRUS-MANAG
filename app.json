@@ -1,28 +1,14 @@
 {
-      "name": "🦇Vค𝔪pıre 🦇 𝐑𝐎𝐁𝐎𝐓",
-      "description": "Telegram Group Management Bot.",
-      "logo": "https://te.legra.ph/file/6826ab59e65ea4d3cb4c8.jpg",
-      "keywords": [
-         "telegram",
-         "sexy",
-         "group",
-         "manager",
-         "Aaru"
-      ],   
-   "repository": "https://github.com/SATYA-OP/YRUS-MANAG",
-   "addons": [
-      {
-         "options": {
-            "version": "12"
-         },
-         "plan": "heroku-postgresql"
-      }
-   ],
-   "env": {
+    "name": "roboot",
+    "description": "Music allow you to stream music trought the telegram voice chat feature Based on Telethon.",
+    "keywords": ["AsuX", "AsuX", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music", "tg-py-calls"],
+    "repository": "https://github.com/SATYA-OP/Roboot",
+  "stack": "container",
+    "env": {
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
          "required": true,
-         "value": ""
+         "value": "5972458699:AAH0KvbOa-pQB24yPbD_DXcYJ-yhVGbbVS8"
       },
       "API_ID": {
          "description": "Get this value from my.telegram.org/apps.",
@@ -42,7 +28,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "5606176611"
+         "value": "1066742780"
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -54,27 +40,27 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "ll_SPARTAN_XD_OWNER_lll"
+         "value": "Danishzain05"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
          "required": true,
-         "value": "Y_RUS_SUPPORT"
+         "value": "Friendly_Chat_Group"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": true,
-         "value": "mongodb+srv://DEVDA123:DEVDA123@cluster0.mdzgb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+         "value": "mongodb+srv://danish:danishx@cluster0.v3wpjye.mongodb.net/?retryWrites=true&w=majority"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1001815612721"
+         "value": "-1001698718312"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-1001815612721"
+         "value": "-1001698718312"
       },      
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
@@ -94,7 +80,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother AARU Support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "5783419520"
+         "value": "1066742780"
       },
       "sw_api": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
@@ -108,22 +94,22 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "5783419520"
+         "value": "1066742780"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "5783419520"
+         "value": "1066742780"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "5783419520"
+         "value": "1066742780"
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "5783419520"
+         "value": "1066742780"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
@@ -152,7 +138,7 @@
       "BL_CHATS": {
          "description": "List of chats you want blacklisted.",
          "required": false,
-         "value": ""
+         "value": "-1001698718312"
       },
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /. Recommended is True",
@@ -161,7 +147,7 @@
       "DONATION_LINK": {
          "description": "Link where you would like to receive donations. If you are a noob, better leave it linking to BANNA_XD",
          "required": false,
-         "value": "https://t.me/ll_OFFICIAL_LEGENDBOY_ll"
+         "value": "https://t.me/Danishzain05"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
@@ -180,7 +166,7 @@
       "WALL_API": {
          "description": "Required for wallpaper. Get your's from https://wall.alphacoders.com/",
          "required": false,
-         "value": ""
+         "value": "XYZ"
       }
       
    }
