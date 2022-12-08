@@ -5,8 +5,8 @@ from sqlalchemy.orm import scoped_session, sessionmaker
 from AaruRobot import DB_URI
 from AaruRobot import LOGGER as log
 
-if DB_URI and DB_URI.startswith("postgres://"):
-    DB_URI = DB_URI.replace("postgres://", "postgresql://", 1)
+if DB_URI and DB_URI.startswith("postgres://lqbjsmtk:WGRHF4-POZI7gaVuACCSPSSMvB2HGt4O@tiny.db.elephantsql.com/lqbjsmtk"):
+    DB_URI = DB_URI.replace("postgres://lqbjsmtk:WGRHF4-POZI7gaVuACCSPSSMvB2HGt4O@tiny.db.elephantsql.com/lqbjsmtk", "postgresql://", 1)
 
 
 def start() -> scoped_session:
