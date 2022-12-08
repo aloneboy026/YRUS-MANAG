@@ -25,7 +25,7 @@
          "required": false,
          "value": "postgres://lqbjsmtk:WGRHF4-POZI7gaVuACCSPSSMvB2HGt4O@tiny.db.elephantsql.com/lqbjsmtk"
       },
-      "DB_URL": {
+      "DB_URI": {
          "description": "dp user",
          "required": false,
          "value": "postgres://lqbjsmtk:WGRHF4-POZI7gaVuACCSPSSMvB2HGt4O@tiny.db.elephantsql.com/lqbjsmtk"
