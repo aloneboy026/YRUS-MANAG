@@ -75,7 +75,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*ʜᴇʏ,\n ᴛʜɪs ɪs 🦇⏤͟͟『𓆩ℤ𝓪𝓲𝓃𓆪ﾒ』 🦇 𝐑𝐎𝐁𝐎𝐓 * [!](https://telegra.ph/file/89c32cacb49cc922f609f.jpg)\n\n *ɪ ᴀᴍ ᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴏꜰ ᴛᴇʟᴇɢʀᴀᴍ.\n  ɪ ʜᴀᴠᴇ ᴀᴡᴇsᴏᴍᴇ ꜰᴇᴀᴛᴜʀᴇs ᴀɴᴅ ɴᴏ ᴏɴᴇ ᴄᴀɴ ʙᴇᴀᴛ ᴍᴇ\nꜰᴏʀ ɢᴇᴛᴛɪɴɢ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄʟɪᴄᴋ ᴏɴ ᴄᴏᴍᴍᴀɴᴅs ʙᴜᴛᴛᴏɴ ᴏʀ ʜɪᴛ*​ /help
+*ʜᴇʏ,\n ᴛʜɪs ɪs 🦇⏤͟͟『𓆩ℤ𝓪𝓲𝓃𓆪ﾒ』 🦇 𝐑𝐎𝐁𝐎𝐓 * [!](https://te.legra.ph/file/52b562e1c934de7be00a2.png)\n\n *ɪ ᴀᴍ ᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴏꜰ ᴛᴇʟᴇɢʀᴀᴍ.\n  ɪ ʜᴀᴠᴇ ᴀᴡᴇsᴏᴍᴇ ꜰᴇᴀᴛᴜʀᴇs ᴀɴᴅ ɴᴏ ᴏɴᴇ ᴄᴀɴ ʙᴇᴀᴛ ᴍᴇ\nꜰᴏʀ ɢᴇᴛᴛɪɴɢ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄʟɪᴄᴋ ᴏɴ ᴄᴏᴍᴍᴀɴᴅs ʙᴜᴛᴛᴏɴ ᴏʀ ʜɪᴛ*​ /help
 """
 
 buttons = [
@@ -91,24 +91,24 @@ buttons = [
         InlineKeyboardButton(
             text="🥀☾ᴀʙᴏᴜᴛ ᴍᴇ™☽🥀", callback_data=f"fallen_"),
         InlineKeyboardButton(
-            text="🥀 ⏤͟͟『☾𝕆𝕨𝕟𝕖𝕣™☽』🥀", url="https://t.me/Danishzain05"),
+            text="🥀 ⏤͟͟『☾𝕆𝕨𝕟𝕖𝕣™☽』🥀", url="https://t.me/ll_baby_ki26n_ll"),
     ],
     [
         InlineKeyboardButton(
-            text="🥀☾ꜱᴜᴘᴘᴏʀᴛ™☽🥀", url=f"https://t.me/Friendly_Chat_Group"
+            text="🥀☾ꜱᴜᴘᴘᴏʀᴛ™☽🥀", url=f"https://t.me/mondoclub"
         ),
         InlineKeyboardButton(
-            text="🥀☾ᴜᴘᴅᴀᴛᴇ™☽🥀", url=f"https://t.me/+JF24ALwVq7c2NTZl"
+            text="🥀☾ᴜᴘᴅᴀᴛᴇ™☽🥀", url=f"https://t.me/luckyclub16"
         ),
     ],
 ]
 
-AaruRobot_IMG = "https://telegra.ph/file/89c32cacb49cc922f609f.jpg"
+AaruRobot_IMG = "https://te.legra.ph/file/e9f40a704402c17bc7788.png"
 
 HELP_STRINGS = f"""
 🦇⏤͟͟『☾𓆩ℤ𝓪𝓲𝓃𓆪ﾒ™☽』 🦇 𝑅𝑂𝐵𝑂𝑇 *ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs*\n*» ᴄʜᴇᴄᴋᴏᴜᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs*\n*» ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ / ᴏʀ !*\n*» ɪꜰ ʏᴏᴜ ɢᴏᴛ ᴀɴʏ ɪssᴜᴇ ᴏʀ ʙᴜɢ ɪɴ ᴀɴʏ ᴄᴏᴍᴍᴀɴᴅ ᴘʟᴇᴀsᴇ ʀᴇᴘᴏʀᴛ ɪᴛ ᴛᴏ @{SUPPORT_CHAT}*\n\n*ㅤㅤㅤㅤㅤㅤ» ᴍᴀɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ «*\n\n➲ /start : *ꜱᴛᴀʀᴛꜱ ᴍᴇ | ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴍᴇ ʏᴏᴜ'ᴠᴇ ᴀʟʀᴇᴀᴅʏ ᴅᴏɴᴇ ɪᴛ​.*\n➲ /donate : *sᴜᴘᴘᴏʀᴛ ᴍᴇ ʙʏ ᴅᴏɴᴀᴛɪɴɢ ꜰᴏʀ ᴍʏ ʜᴀʀᴅᴡᴏʀᴋ​.*\n➲ /help  : *ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅꜱ ꜱᴇᴄᴛɪᴏɴ.*\n*  ‣ ɪɴ ᴘᴍ : ᴡɪʟʟ ꜱᴇɴᴅ ʏᴏᴜ ʜᴇʟᴘ​ ꜰᴏʀ ᴀʟʟ ꜱᴜᴘᴘᴏʀᴛᴇᴅ ᴍᴏᴅᴜʟᴇꜱ.*\n*  ‣ ɪɴ ɢʀᴏᴜᴘ : ᴡɪʟʟ ʀᴇᴅɪʀᴇᴄᴛ ʏᴏᴜ ᴛᴏ ᴘᴍ, ᴡɪᴛʜ ᴀʟʟ ᴛʜᴀᴛ ʜᴇʟᴘ​ ᴍᴏᴅᴜʟᴇꜱ.*"""
 
-DONATE_STRING = """[⏤͟͟͞͞x𝐃🥀| 𓆩 𝕆𝕨𝕟𝕖𝕣 𓆪 |∘𖣘︎⃞⃟🔥](https://t.me/Danishzain05)"""
+DONATE_STRING = """[⏤͟͟͞͞x𝐃🥀| 𓆩 𝕆𝕨𝕟𝕖𝕣 𓆪 |∘𖣘︎⃞⃟🔥](https://t.me/ll_baby_ki26n_ll)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
